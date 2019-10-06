@@ -8,7 +8,7 @@ public class LomutoPartitioning {
     public static void main(String[] args) {
 
 	// write your code here
-     int inputArr[]={4,2,8,7,1,3,5,6};
+     int inputArr[]= {25, 55, -2, 13, -25, 8, 32};
      doQuickSort(inputArr);
 
     }
